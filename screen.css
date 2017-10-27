@@ -24,15 +24,20 @@ font-size: 1.4em;
 }
 
 h2 {
-  color: #CCCCFF;
+  color: rgb(255,228,225);
   font-family: Courier;
   font-size: 1em;
   line-height: 0.6em;
-  padding-bottom: 5px;
+  padding-top: 20em;
 }
 
 h3 {
-color:#FFFFFF;
+  color: rgb(255,228,225);
+  font-family: Courier;
+  font-size: 1em;
+  line-height: 0.6em;
+  padding-top: 0.6px;
+  padding-bottom: 10em;
 }
 
 
@@ -41,6 +46,7 @@ color: rgb(255,228,225);
 font-family: Courier;
 font-size: 1em;
 line-height: 0.6em;
+padding-top: 5px;
 padding-bottom: 5px; /*this is the space under my life is building here */
 }
 
@@ -80,6 +86,8 @@ color: #FFFFFF; /* this is the yellow of the link bottons, change it */
 
 .img-circle {
     border-radius: 50%;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 /* add statement */
@@ -283,7 +291,7 @@ color: #FFFFFF; /* this is the yellow of the link bottons, change it */
 
 @media screen and (min-width: 1300px) {
   html {
-    font-size: 1em;
+    font-size: 1.4em;
     border-width: medium;
   }
   p {
@@ -297,7 +305,7 @@ color: #FFFFFF; /* this is the yellow of the link bottons, change it */
     font-size: 1em;
   }
   h1 {
-    font-size: 1em;
+    font-size: 1.4em;
   }
   img {
     width: 800px;
