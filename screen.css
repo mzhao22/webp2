@@ -103,14 +103,24 @@ color: #FFFFFF; /* this is the yellow of the link bottons, change it */
     width: 180px;
     margin: 5px auto;
   }
+
+  #navigation {
+    padding-top: 3em;
+    line-height: 3em;
+  }
   ul  {
-    font-size: 0.8em;
+    font-size: 1.2em;
   }
   ul.li {
     text-align: center;
+    padding-top: 1em;
+    line-height: 2em;
   }
   h1 {
     font-size: 1em;
+  }
+  h2,h3 {
+    line-height: 1.22em;
   }
   img {
     width: 180px;
@@ -139,6 +149,9 @@ color: #FFFFFF; /* this is the yellow of the link bottons, change it */
   }
   h1 {
     font-size: 1em;
+  }
+  h2,h3 {
+    line-height: 1.22em;
   }
   img {
     width: 260px;
